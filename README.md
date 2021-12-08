@@ -17,3 +17,8 @@
 Colabs and other stuff:
 
 https://www.kaggle.com/bananon/simswap-modifed
+
+<br><br>
+Other stuff
+
+<img src="https://books.google.it/books/publisher/content?id=J0IwDwAAQBAJ&hl=it&pg=PA78&img=1&zoom=3&sig=ACfU3U0uVB8Y5KcCcyUO6kol44HdDjHMFw&w=1280">
