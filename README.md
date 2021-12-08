@@ -7,7 +7,7 @@
 **Docker** for ***https://github.com/neuralchen/SimSwap*** to start in container
 For run you need docker - ***https://docs.docker.com/engine/install/ubuntu/***
 
-1. Clone repo by ```git clone https://github.com/nlemeshko/SimSWAP-docker.git```
+1. Clone repo by ```git clone https://github.com/illtellyoulater/simswap-docker.git```
 2. cd SimSWAP-docker
 3. docker build . --tag mdsn/simswap
 4. docker run mdsn/simswap
