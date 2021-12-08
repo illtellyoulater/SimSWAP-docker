@@ -21,4 +21,5 @@ https://www.kaggle.com/bananon/simswap-modifed
 <br><br>
 Other stuff
 
-<frame src="https://books.google.it/books/publisher/content?id=J0IwDwAAQBAJ&hl=it&pg=PA78&img=1&zoom=3&sig=ACfU3U0uVB8Y5KcCcyUO6kol44HdDjHMFw&w=1280">
+- sintassi di docker commit --change (ma tanto non la userò più)
+https://books.google.it/books/publisher/content?id=J0IwDwAAQBAJ&hl=it&pg=PA78&img=1&zoom=3&sig=ACfU3U0uVB8Y5KcCcyUO6kol44HdDjHMFw&w=1280
