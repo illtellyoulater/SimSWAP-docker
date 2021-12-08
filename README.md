@@ -11,3 +11,8 @@
 5. Upload image and video file to source path
 6. Run - ```bash start.sh``` and type name of files
 7. Check output in source path
+
+
+Colabs and other stuff:
+
+https://www.kaggle.com/bananon/simswap-modifed
