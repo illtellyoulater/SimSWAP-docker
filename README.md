@@ -1,4 +1,4 @@
-# SimSwap-docker
+# simswap-docker
 
 ![Main Build](https://github.com/nlemeshko/SimSWAP-docker/actions/workflows/build.yml/badge.svg)
 
