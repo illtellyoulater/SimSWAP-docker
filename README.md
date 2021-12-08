@@ -7,7 +7,7 @@
 1. Clone repo by ```git clone https://github.com/illtellyoulater/simswap-docker.git```
 2. cd simswap-docker
 3. docker build . --tag simswap
-// 4. docker run simswap
+4. docker run simswap (why????????)
 5. Upload image and video file to source path
 6. Run - ```bash start.sh``` and type name of files
 7. Check output in source path
