@@ -12,7 +12,7 @@
 6. Run - ```bash start.sh``` and type name of files
 7. Check output in source path
 
--
+
 
 Colabs and other stuff:
 
