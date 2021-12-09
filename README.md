@@ -2,7 +2,7 @@
 
 ![Main Build](https://github.com/nlemeshko/SimSWAP-docker/actions/workflows/build.yml/badge.svg)
 
-**Docker** for ***https://github.com/neuralchen/SimSwap***
+**Docker** for ***https://github.com/neuralchen/simswap***
 
 1. clone repo with ```git clone https://github.com/illtellyoulater/simswap-docker.git```
 2. cd simswap-docker
