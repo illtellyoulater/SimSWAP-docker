@@ -2,7 +2,7 @@ FROM continuumio/anaconda3
 RUN pip install gdown && \
 	cd /home && gdown https://drive.google.com/uc?id=18jtKeWe6SEy0ypvNiiFTJvtBN6kgdShc && \
 	apt update && apt install -y p7zip-full ffmpeg libsm6 libxext6 && apt-get clean && \
-	7z x SimSwap-main.zip && rm SimSwap-main.zip && \
+	7z x SimSwap-main-no-cpufix.zip && rm SimSwap-main-no-cpufix.zip && \
 	cd SimSwap-main
 SHELL ["/bin/bash", "-c"]
 RUN	conda create -n simswap python=3.6 -y && source ~/.bashrc && conda activate simswap && \
