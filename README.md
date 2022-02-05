@@ -21,6 +21,4 @@ For other working modes supported by simswap (e.g. multiple face substitution) s
 
 <br>
 
-Colab (from simswap maintainers):
-
-https://colab.research.google.com/github/neuralchen/SimSwap/blob/main/SimSwap%20colab.ipynb
+In case this does not work feel free to open issue requests. Also, don't forget you can alwasy use the official Colab from simswap maintainers at: https://colab.research.google.com/github/neuralchen/SimSwap/blob/main/SimSwap%20colab.ipynb
