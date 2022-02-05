@@ -19,6 +19,4 @@ Note: to use the HD dataset (only available in latest version) replace `--crop_s
 
 For other working modes supported by simswap (e.g. multiple face substitution) see https://github.com/illtellyoulater/simswap-docker/blob/main/examples.md
 
-<br>
-
 In case this does not work feel free to open issue requests. Also, don't forget you can alwasy use the official Colab from simswap maintainers at: https://colab.research.google.com/github/neuralchen/SimSwap/blob/main/SimSwap%20colab.ipynb
