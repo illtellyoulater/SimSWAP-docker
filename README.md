@@ -10,9 +10,10 @@
 6. when the container finishes running find the results in the mapped folder (/shared) 
 
 Note: to use the HD dataset (only available if you built the latest version) replace `--crop_size 224` with  `--crop_size 512`
-```start.sh``` is a little bash script for automating the running process
 
-For other functions available in simswap (e.g. multiple face substitution) see https://github.com/illtellyoulater/simswap-docker/blob/main/examples.md
+```start.sh``` is a little bash script like for automating the running procedure
+
+For other working modes supported by simswap (e.g. multiple face substitution) see https://github.com/illtellyoulater/simswap-docker/blob/main/examples.md
 
 <br>
 
