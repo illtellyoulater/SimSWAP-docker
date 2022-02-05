@@ -1,6 +1,6 @@
 FROM continuumio/anaconda3
 RUN pip install gdown && \
-	cd /home && gdown https://drive.google.com/1hO0qOFEy4IgOIoZUQ-2yO1Co9H25xfRE && \
+	cd /home && gdown https://drive.google.com/uc?id=1hO0qOFEy4IgOIoZUQ-2yO1Co9H25xfRE && \
 	apt update && apt install -y p7zip-full ffmpeg libsm6 libxext6 && apt-get clean && \
 	7z x simswap-v24-11-2021.7z && rm simswap-v24-11-2021.7z && \
 	cd simswap-main
