@@ -3,11 +3,10 @@
 **Docker image for SimSwap - https://github.com/neuralchen/simswap**
 
 1. download the dockerfile for the simswap version you want to build:
-  use `dockerfile-for-v1-cpufix` for first version with CPU patch
+- `dockerfile-for-v1-cpufix` for first version with CPU patch
 
-or 
-
-Use `dockerfile-for-v24-11-2021` for latest version with HD dataset (it will still run on CPU but does not require a patch)
+or
+- `dockerfile-for-v24-11-2021` for latest version with HD dataset (it will still run on CPU but does not require a patch)
 
 2. cd /simswap
 3. build the image with either: 
