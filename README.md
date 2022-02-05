@@ -1,6 +1,6 @@
 # simswap-docker
 
-**Docker image for** ***SimSwap - https://github.com/neuralchen/simswap***
+**Docker image for SimSwap - https://github.com/neuralchen/simswap**
 
 1. download the dockerfile and place it into an empty folder (e.g. /simswap)
 2. cd /simswap
