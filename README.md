@@ -17,7 +17,7 @@ docker run --rm -it -v /shared:/home/media simswap /opt/conda/envs/simswap/bin/p
 
 Note: to use the HD dataset (only available in latest version) replace `--crop_size 224` with  `--crop_size 512`
 
-For other working modes supported by simswap (e.g. multiple face substitution) see https://github.com/illtellyoulater/simswap-docker/blob/main/examples.md
+For other working modes supported by simswap (e.g. multiple face substitution) see https://github.com/illtellyoulater/simswap-docker/blob/main/examples.md.
 
 <br>
 
