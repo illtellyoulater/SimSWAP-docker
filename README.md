@@ -2,7 +2,7 @@
 
 **Docker image for SimSwap - https://github.com/neuralchen/simswap**
 
-1. download the dockerfile and place it into an empty folder (e.g. /simswap)
+1. download the dockerfile you want to use (v1 or v24-11-2021) and place it into an empty folder (e.g. /simswap)
 2. cd /simswap
 3. to build an image for latest version: ```docker build . --file dockerfile-for-v24-11-2021 --tag simswap```
 4. to build an image for v1 with CPU patch: ```docker build . --file dockerfile-for-v1-cpufix --tag simswap```
