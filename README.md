@@ -11,7 +11,7 @@
 7. alternatively you could automate the execution process with a bash script (see ```start.sh```)
 8. when the container finishes running find the results in the mapped folder (/shared) 
 
-For other simswap usage examples (e.g. multiple face substitution) see https://github.com/illtellyoulater/simswap-docker/examples.md
+For other simswap usage examples (e.g. multiple face substitution) see https://github.com/illtellyoulater/simswap-docker/blob/main/examples.md
 
 <br>
 
