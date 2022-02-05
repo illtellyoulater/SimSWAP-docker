@@ -13,7 +13,7 @@
 
 For other simswap usage examples (e.g. multiple face substitution) see https://github.com/illtellyoulater/simswap-docker/examples.md
 
-<br><br>
+<br>
 
 Colab from simswap maintainers:
 
