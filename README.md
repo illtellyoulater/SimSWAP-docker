@@ -15,12 +15,12 @@
 docker run --rm -it -v /shared:/home/media simswap /opt/conda/envs/simswap/bin/python test_video_swapsingle.py --no_simswaplogo --crop_size 224 --use_mask --name people --Arc_path arcface_model/arcface_checkpoint.tar --pic_a_path /home/media/photo.jpg --video_path /home/media/video.mp4 --output_path /home/media/video-out.mp4 --temp_path /home/media/temp_results``` (alternatively, use a little bash script like `start.sh` to automatate the running procedure)
 7. when the container has finished running check the results in the mapped folder (/shared) 
 
-Note: to use the HD dataset (only available in latest version) replace `--crop_size 224` with  `--crop_size 512`.
+Note: to use the HD dataset (only available in latest version) replace `--crop_size 224` with  `--crop_size 512`
 
-For other working modes supported by simswap (e.g. multiple face substitution) see https://github.com/illtellyoulater/simswap-docker/blob/main/examples.md.
+For other working modes supported by simswap (e.g. multiple face substitution) see https://github.com/illtellyoulater/simswap-docker/blob/main/examples.md
 
 <br>
 
-Colab from simswap maintainers:
+Colab (from simswap maintainers):
 
 https://colab.research.google.com/github/neuralchen/SimSwap/blob/main/SimSwap%20colab.ipynb
